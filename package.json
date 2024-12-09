@@ -7,8 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "postinstall": "npm install --force",
-    "postbuild": "cp service_key.json .next/"
+    "postinstall": "npm install --force"
   },
   "dependencies": {
     "@blocknote/core": "^0.20.0",
