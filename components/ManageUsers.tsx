@@ -57,7 +57,7 @@ function ManageUsers() {
             <DialogHeader>
             <DialogTitle>Users with Access</DialogTitle>
             <DialogDescription>
-                Below is the list of users who have access to this document.
+                Below is the list of users who have access to this document
             </DialogDescription>
             </DialogHeader>
 
