@@ -56,10 +56,5 @@
   "resolutions": {
   "react": "^18.0.0",
   "react-dom": "^18.0.0"
-  },
-  "overrides": {
-  "react": "^18.0.0",
-  "react-dom": "^18.0.0"
   }
-
 }
